@@ -1,0 +1,17 @@
+{
+  "name": "Блок 50 (10.11.2026) — облегченная версия",
+  "format": "glb",
+  "compression": "gzip",
+  "originalBytes": 48211772,
+  "compressedBytes": 17198953,
+  "sha256Glb": "8c2e35a618c0c065f6c7bcfd469804797ade2ab5b73d91225469819f1de0ddbf",
+  "sha256Gzip": "4082105e8f25ea4ff8ca3b7c5e7838acf7060db20f11b8f1299fcbb01ffd67b7",
+  "meshCount": 46,
+  "triangleCountApprox": 2617959,
+  "parts": [
+    {
+      "filename": "model.glb.gz.part01",
+      "size": 17198953
+    }
+  ]
+}
